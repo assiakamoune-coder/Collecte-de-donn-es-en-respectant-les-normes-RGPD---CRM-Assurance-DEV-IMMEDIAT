@@ -1,0 +1,2 @@
+# Collecte-de-donn-es-en-respectant-les-normes-RGPD---CRM-Assurance-DEV-IMMEDIAT
+Ce projet documente les démarches entreprises pour assurer la conformité du système CRM avec le Règlement Général sur la Protection des Données (RGPD). Il répond spécifiquement à une sanction de la CNIL imposant une limitation temporaire des traitements en garantissant l'anonymisation des données personnelles pour l'analyse commerciale.
