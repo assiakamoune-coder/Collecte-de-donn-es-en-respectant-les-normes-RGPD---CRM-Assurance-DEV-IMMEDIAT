@@ -42,7 +42,7 @@ Cliquez sur les liens pour accéder aux détails de mon travail :
 
 * [📄 **Rapport de Conformité (PDF)**](./Kamoune_Assia_3_rapport_102025.pdf) : Analyse complète de la méthodologie et justification des choix techniques face aux exigences CNIL.
 * [📋 **Audit & Préconisations (PDF)**](./Kamoune_Assia_1_recommandations_102025.pdf) : Plan d'action pour la direction (rôles d'accès, registre de traitements, sécurité SI).
-* [📊 **Base de Données Cleanée (CSV)**](./Kamoune_Assia_2_donnees_102025.csv) : Le résultat final. Une base 100% anonyme, prête pour Power BI ou Tableau.
+* [📊 **Base de Données Cleanée (Excel)**](./Kamoune_Assia_2_donnees_102025.xlsx) : Le résultat final. Une base 100% anonyme, prête pour Power BI ou Tableau.
 * [🖥️ **Présentation (PPTX)**](./Collecte%20de%20donn閖es%20en%20respectant%20les%20normes%20RGPD.pptx) : Synthèse visuelle des résultats pour le comité de direction.
 
 ## 💡 Ma Valeur Ajoutée sur ce Projet
